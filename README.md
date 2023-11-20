@@ -1,8 +1,6 @@
 # Speech2text
 Speech to Text using Whisper model
 
-Certainly! Below is a detailed README.md section for using OpenAI's Whisper ASR model for Speech-to-Text in Python:
-
 ---
 
 # Speech-to-Text with OpenAI's Whisper Model
